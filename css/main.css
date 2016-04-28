@@ -1,3 +1,10 @@
 body{
-
+  font-family: 'Lato', sans-serif;
+}
+#first{
+  font-weight:900;
+}
+#header{
+  background-color:blue;
+  box-shadow:3px 0 4px black;
 }
