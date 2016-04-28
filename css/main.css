@@ -6,8 +6,8 @@ body{
 }
 #header{
   background-color:blue;
+  padding:0;
   box-shadow:0 1px 50px black;
-  margin:0px;
   overflow:auto;
   position:fixed;
   top:0;
