@@ -11,6 +11,8 @@ body{
 }
 #header-list{
   list-style-type:none;
-  float:right;
   font-size:30px;
+}
+#header-list > li{
+  float:right;
 }
