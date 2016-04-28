@@ -17,4 +17,5 @@ body{
 }
 #header-list > li{
   float:left;
+  margin:5px;
 }
