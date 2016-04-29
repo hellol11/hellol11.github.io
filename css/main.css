@@ -13,7 +13,6 @@ body{
  	top:0;
  	left:0;
  	width:100%;
- 	color:white;
 }
 #header-list{
  	padding:0;
@@ -26,4 +25,8 @@ body{
  	float:left;
  	margin:5px;
  	display:inline-block;
+}
+#header-list > li > a{
+ text-decoration:none;
+ color:white;
 }
